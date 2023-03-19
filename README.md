@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PHPERCYHO
 - 👀 I’m interested in bot and apps development
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning Python
 
 <!---
 PHPERCYHO/PHPERCYHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
